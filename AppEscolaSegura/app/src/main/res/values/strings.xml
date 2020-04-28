@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AppEscolaSegura</string>
+    <string name="escola_op">Escolha uma Escola</string>
+    <string-array name="escolas">
+        <item>ADALBERTO NASCIMENTO</item>
+        <item>ADRIANA CARDOSO PROFESSORA</item>
+        <item>ANIBAL DE FREITAS PROFESSOR</item>
+        <item>ANTONIO VILELA JUNIOR PROFESSOR</item>
+        <item>BENEDITO SAMPAIO PROFESSOR</item>
+        <item>CARLOS GOMES</item>
+        <item>CULTO A CIENCIA</item>
+        <item>FABIO FARIA DE SYLLOS PROFESSOR</item>
+    </string-array>
+    <string name="title_activity_monitora">Map</string>
+    <string name="title_activity_main2_drawer">Main2ActivityDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_inicio">Inicio</string>
+    <string name="action_ocorrencia">Ocorrência</string>
+    <string name="action_relataocorrencia">Relata Ocorrência</string>
+    <string name="action_emergenciaMedica">Emergência Medica</string>
+    <string name="action_emergenciaPolicial">emergência Policial</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="action_sair">Sair</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_foto">Foto</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Sobre</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

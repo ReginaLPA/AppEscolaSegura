@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+   <item
+    android:id="@+id/Inicio"
+    android:orderInCategory="100"
+    android:title="@string/action_inicio"
+    app:showAsAction="never" />
+
+
+    <item
+    android:id="@+id/Ocorrencia"
+    android:orderInCategory="100"
+    android:title="@string/action_ocorrencia"
+    app:showAsAction="never">
+
+            <menu>
+                <item
+                    android:id="@+id/Relata_Ocorrencia"
+                    android:orderInCategory="100"
+                    android:title="@string/action_relataocorrencia"
+                    app:showAsAction="never"/>
+                <item
+                android:id="@+id/Emergencia_Medica"
+                    android:orderInCategory="100"
+                    android:title="@string/action_emergenciaMedica"
+                    app:showAsAction="never"/>
+                <item
+                    android:id="@+id/Emergencia_Policial"
+                    android:orderInCategory="100"
+                    android:title="@string/action_emergenciaPolicial"
+                    app:showAsAction="never"/>
+
+            </menu>
+    </item>>
+
+
+    <item
+        android:id="@+id/Sobre"
+        android:orderInCategory="100"
+        android:title="@string/action_sobre"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/Sair"
+        android:orderInCategory="100"
+        android:title="@string/action_sair"
+        app:showAsAction="never"/>
+
+</menu>
